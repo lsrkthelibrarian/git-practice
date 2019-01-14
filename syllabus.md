@@ -1,4 +1,4 @@
-# **LIS606 Syllabus:** Informaiton Literacy & Library Instruction    
+# **LIS606 Syllabus:** Informaiton Literacy & Library Instruction-Spring, 2019    
 ## Course Description  
 ## Course Objectives
 ## Learning Outcomes
