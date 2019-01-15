@@ -1,5 +1,6 @@
 # **LIS606 Syllabus:** Informaiton Literacy & Library Instruction-Spring, 2019    
 ## Course Description  
+This course is intended to provide students with an overview of the instruction landscape in libraries.  It will provide an overview of teaching and learning theories, the ACRL's Information Literacy Framework, and strategies for teacher instruction.  Students will develop their own teaching statements and philosophies and practice instruction through individual and group assignments.    
 ## Course Objectives
 ## Learning Outcomes
 ## Instructor Information:
@@ -22,3 +23,4 @@
 -  Session 5
 ## Grading
 ## Assignments
+All assignment information and due dates will be shared on the course blog and Blackboard.  
