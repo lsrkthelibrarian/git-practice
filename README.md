@@ -1,0 +1,1 @@
+This project is for the GCDRI held in January, 2019 in NYC.  At this Insitute, students at the Graduate Center learned how to work in the command line, use Git and GitHub, Python, QGIS, and Omeka to work on digitial projects.  This repository represents some of the work completed at the Institute.  
